@@ -5,6 +5,9 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Sort/Heap Sort/pom.xml" />
+        <option value="$PROJECT_DIR$/Sort/Quick Sort/pom.xml" />
+        <option value="$PROJECT_DIR$/Sort/Shell Sort/pom.xml" />
       </list>
     </option>
   </component>
