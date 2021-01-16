@@ -6,9 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Shell Sort" />
         <module name="Quick Sort" />
         <module name="Heap Sort" />
-        <module name="Shell Sort" />
       </profile>
     </annotationProcessing>
   </component>
